@@ -55,7 +55,7 @@
         </em>
       </td>
       <td>
-        <img src="[[https://media.tenor.com/fxF2FiH-6t4AAAAC/zenitsu-agatsuma.gif](https://tenor.com/pt-BR/view/zenitsu-agatsuma-demon-slayer-kimetsu-no-yaiba-gif-21479714)" alt="Zenitsu Agatsuma](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZXk2eHU1ZHZudWlwaGtwMHdxd2l5MDQ5MmYwYnh2dzd1enY0YjZ1aSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/WkeXjFoubG449UdbGh/giphy.gif)" height="350"/>
+       
       </td>
     </tr>
   </table>
