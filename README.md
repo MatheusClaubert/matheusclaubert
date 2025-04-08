@@ -55,7 +55,7 @@
         </em>
       </td>
       <td>
-        <img src="https://imgflip.com/gif/9q2u1s" alt="Zenitsu" height="150"/>
+        <img src="https://i.pinimg.com/736x/82/a9/75/82a9751c0778bd66114f648f1a3f4fe7.jpg" alt="Zenitsu" height="150"/>
       </td>
     </tr>
   </table>
