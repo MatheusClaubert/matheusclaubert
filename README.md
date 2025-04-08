@@ -44,3 +44,20 @@
 </picture>
 
 ###
+<hr></hr>
+
+<div align="center">
+  <table>
+    <tr>
+      <td>
+        <em>
+          "Se é bom em uma única coisa, treine para aperfeiçoá-la, trabalhe nisso para extrair o seu potencial ao máximo."
+        </em>
+      </td>
+      <td>
+        <img src="https://media.tenor.com/0f5zWw1K5VgAAAAC/zenitsu-agatsuma-demon-slayer.gif" alt="Zenitsu Agatsuma" height="150"/>
+      </td>
+    </tr>
+  </table>
+</div>
+
