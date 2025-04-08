@@ -55,9 +55,17 @@
         </em>
       </td>
       <td>
-        <img src="https://media.tenor.com/0f5zWw1K5VgAAAAC/zenitsu-agatsuma-demon-slayer.gif" alt="Zenitsu Agatsuma" height="150"/>
+        <img src="https://media.tenor.com/fxF2FiH-6t4AAAAC/zenitsu-agatsuma.gif" alt="Zenitsu Agatsuma" height="150"/>
       </td>
     </tr>
   </table>
 </div>
+<hr></hr>
+
+<div align="center">
+  <h3> Obrigado por passar por aqui! </h3>
+  <p>Se curtiu, não esquece de deixar aquele ⭐ no repositório e me chamar pra trocar uma ideia. Bora codar e evoluir juntos! 🚀</p>
+  <p><strong>Keep coding, keep dreaming. 💻🌌</strong></p>
+</div>
+
 
