@@ -55,7 +55,7 @@
         </em>
       </td>
       <td>
-        <img src="https://media.tenor.com/fxF2FiH-6t4AAAAC/zenitsu-agatsuma.gif" alt="Zenitsu Agatsuma" height="150"/>
+        <div class="tenor-gif-embed" data-postid="21479714" data-share-method="host" data-aspect-ratio="1.77778" data-width="100%"><a href="https://tenor.com/view/zenitsu-agatsuma-demon-slayer-kimetsu-no-yaiba-gif-21479714">Zenitsu Agatsuma Demon Slayer GIF</a>from <a href="https://tenor.com/search/zenitsu+agatsuma-gifs">Zenitsu Agatsuma GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
       </td>
     </tr>
   </table>
