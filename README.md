@@ -67,6 +67,5 @@
   <p>Se curtiu, não esquece de deixar aquele ⭐ no repositório e me chamar pra trocar uma ideia. Bora codar e evoluir juntos! 🚀</p>
   <p><strong>Keep coding, keep dreaming. 💻🌌</strong></p>
 </div>
-<img src="https://github.com/user-attachments/assets/a884f6ef-8bee-4367-8ca3-c32d200f84a9"/>
 
 
