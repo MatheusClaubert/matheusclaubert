@@ -1,13 +1,13 @@
 ### Yamerooo, Eu sou o Matheus Claubert !
 <hr></hr>
 👩‍💻Software Developer
-<p align="center">
-  🔹 Desenvolvedor focado em criar soluções que facilitem a vida das pessoas e tragam impacto real.  
+<p align="left">
+  🔹 Focado em criar soluções que facilitem a vida das pessoas e tragam impacto real.  
   🔹 Explorando o universo da **AWS** para construir aplicações mais escaláveis, seguras e acessíveis.  
   🔹 Acredito que compartilhar conhecimento e colaborar é a melhor forma de evoluir como profissional e como ser humano.  
 </p>
 👩‍💻Software Developer
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Fala comigo por aqui:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/matheus-claubert-8613b0152" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/matheus-claubert-8613b0152" height="30" width="40" /></a>
 <a href="https://instagram.com/dart.siders_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dart.siders_" height="30" width="40" /></a>
