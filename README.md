@@ -1,6 +1,11 @@
-### Falaaa Dev, Eu sou o Matheus Claubert !
+### Yamerooo, Eu sou o Matheus Claubert !
 <hr></hr>
-
+👩‍💻Software Developer
+<p align="center">
+  🔹 Desenvolvedor focado em criar soluções que facilitem a vida das pessoas e tragam impacto real.  
+  🔹 Explorando o universo da **AWS** para construir aplicações mais escaláveis, seguras e acessíveis.  
+  🔹 Acredito que compartilhar conhecimento e colaborar é a melhor forma de evoluir como profissional e como ser humano.  
+</p>
 👩‍💻Software Developer
 <h3 align="left">Connect with me:</h3>
 <p align="left">
